@@ -1,0 +1,68 @@
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe.config
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\bin\Debug\CRMSystem.pdb
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.AssemblyReference.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.Properties.Resources.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.GenerateResource.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.CoreCompileInputs.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.exe
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.pdb
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.loginForm.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.CRMsystem.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.AddUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.FindUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.DeleteUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.EditUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Visual Studio Codes\CRMSystem\CRMSystem\obj\Debug\CRMSystem.PrintUF.resources
+D:\Desktop\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe.config
+D:\Desktop\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe
+D:\Desktop\CRMSystem\CRMSystem\bin\Debug\CRMSystem.pdb
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.AssemblyReference.cache
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.AddUF.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.CRMsystem.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.DeleteUF.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.EditUF.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.FindUF.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.loginForm.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.PrintUF.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.Properties.Resources.resources
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.GenerateResource.cache
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.exe
+D:\Desktop\CRMSystem\CRMSystem\obj\Debug\CRMSystem.pdb
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe.config
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\bin\Debug\CRMSystem.pdb
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.AssemblyReference.cache
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.AddUF.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.CRMsystem.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.DeleteUF.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.EditUF.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.FindUF.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.loginForm.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.PrintUF.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.Properties.Resources.resources
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.GenerateResource.cache
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.CoreCompileInputs.cache
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.exe
+C:\Users\mshah\Desktop\CRMsystemm\CRMSystem\CRMSystem\obj\Debug\CRMSystem.pdb
+D:\Desktop\AHL\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe.config
+D:\Desktop\AHL\CRMSystem\CRMSystem\bin\Debug\CRMSystem.exe
+D:\Desktop\AHL\CRMSystem\CRMSystem\bin\Debug\CRMSystem.pdb
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.AssemblyReference.cache
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.AddUF.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.CRMsystem.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.DeleteUF.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.EditUF.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.FindUF.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.loginForm.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.PrintUF.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.Properties.Resources.resources
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.GenerateResource.cache
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.csproj.CoreCompileInputs.cache
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.exe
+D:\Desktop\AHL\CRMSystem\CRMSystem\obj\Debug\CRMSystem.pdb

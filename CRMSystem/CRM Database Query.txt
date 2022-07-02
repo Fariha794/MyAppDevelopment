@@ -1,0 +1,26 @@
+create database ClintDatabase;
+
+
+** Select ClintDatabase instead of Master from top left corner.
+
+
+create table clintTable(
+clintPhoneNumber varchar(11) not null constraint pk1 primary key, 
+clintName varchar(32) not null,
+clintAddress varchar(50) not null,
+clintEmail varchar(32),
+clintCallDuration number(4,2) not null,
+feedback bit(1) not null,
+callRecordingFolderPath varchar(100) not null
+);
+
+insert into clintTable values('00000000000', 'Demo', 'Uttara', 'demo@mail.com', 10.5, 1, 'C:\');
+insert into clintTable values('111111111', 'Demo1', 'Badda', 'demo1@mail.com', 12.5, 0, 'D:\');
+
+select * from clintTable;
+
+update clintTable set clintName='Demo2', clintAddress='Kuril', callRecordingFolderPath='E:\' where clintPhoneNumber='011111111';
+
+delete from clintTable where clintPhoneNumber='011111111';
+
+select * from clintTable where clintPhoneNumber='00000000000';

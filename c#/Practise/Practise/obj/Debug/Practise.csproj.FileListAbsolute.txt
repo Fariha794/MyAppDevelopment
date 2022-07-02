@@ -1,0 +1,8 @@
+D:\Desktop\GitRep\c#\Practise\Practise\bin\Debug\Practise.exe.config
+D:\Desktop\GitRep\c#\Practise\Practise\bin\Debug\Practise.exe
+D:\Desktop\GitRep\c#\Practise\Practise\bin\Debug\Practise.pdb
+D:\Desktop\GitRep\c#\Practise\Practise\obj\Debug\Practise.csproj.AssemblyReference.cache
+D:\Desktop\GitRep\c#\Practise\Practise\obj\Debug\Practise.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\GitRep\c#\Practise\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+D:\Desktop\GitRep\c#\Practise\Practise\obj\Debug\Practise.exe
+D:\Desktop\GitRep\c#\Practise\Practise\obj\Debug\Practise.pdb
